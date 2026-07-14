@@ -20,6 +20,8 @@ For [QNAP](https://www.qnap.com/), Jellyfin can be installed either automaticall
 
 A community-maintained QPKG package ([Jellyfin-QPKG](https://github.com/ivanusto/Jellyfin-QPKG)) is available to simplify installation. It automatically configures Container Station to run the official Docker container, mounts your shared folders under `/mnt`, and auto-detects GPU resources for hardware transcoding.
 
+This package has been verified to work on models such as TS-464, TS-855X, TS-673A, and TS-h1277AFX.
+
 ### Installation Steps
 
 1. **Enable Installation of Unsigned Packages**:
